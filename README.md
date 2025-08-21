@@ -68,7 +68,4 @@ This repository contains a project for building and evaluating machine learning 
 
 This repository serves as a comprehensive example of applying machine learning for natural language processing (NLP) classification tasks, specifically for spam detection in SMS messages.
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/81622488/25674d56-a42e-4a33-a461-928cafc94d35/Untitled.ipynb)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/81622488/c79b68ae-93ab-4c05-831b-0b03070914a4/email.csv)
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/81622488/64d6cef3-e7b3-4335-9347-8e2dc493a737/Spam_Classifier.ipynb)
-[4](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/81622488/455de391-e138-45db-b4ca-c15708f94bc6/spam.csv)
+
