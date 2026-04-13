@@ -2,6 +2,9 @@
 
 This repository contains a project for building and evaluating machine learning models to classify SMS messages as **spam** or **ham** (non-spam). The aim is to create an effective spam detection system using various text classification techniques and machine learning algorithms.
 
+
+TechrXiv Paper : https://doi.org/10.36227/techrxiv.175760622.22984283/v1
+
 ***
 
 ## Project Overview
